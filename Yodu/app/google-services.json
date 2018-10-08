@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802666838686",
+    "firebase_url": "https://yodu-ba6b7.firebaseio.com",
+    "project_id": "yodu-ba6b7",
+    "storage_bucket": "yodu-ba6b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802666838686:android:c68cf14593d51330",
+        "android_client_info": {
+          "package_name": "com.hokagelab.www.yodu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802666838686-tg2j8bietco3v8rd5ufn6fe18tnd2uui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hokagelab.www.yodu",
+            "certificate_hash": "5f183e603da7d6665f710b5aa6804225bdd6657b"
+          }
+        },
+        {
+          "client_id": "802666838686-mao03ltl2vkjerkaqckfh28947ie4rl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz6c4Zh9lJtcZrrvplSuZttCnt87u4eV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802666838686-mao03ltl2vkjerkaqckfh28947ie4rl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
