@@ -1,5 +1,3 @@
-# Selamat Datang Hacktoberfest 2018
-<img src="previewYodu/Hacktoberfest_2018_meetup_600x338.png">
 
 # Yodu-Aplikasi-Belajar-Anak-TK
 > :school_satchel: Aplikasi Yok (Beta) merupakan aplikasi edukasi anak-anak pra sekolah untuk belajar pengenalan huruf, angka, bentuk, hewan, buah, dan menghitung.
